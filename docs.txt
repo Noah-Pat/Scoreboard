@@ -1,0 +1,1 @@
+Using WLED JSON API to interact with ESP32 controlled matrix to create custom scoreboard effects such as a live NFL score
